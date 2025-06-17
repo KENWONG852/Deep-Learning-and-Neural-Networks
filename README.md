@@ -1,4 +1,4 @@
-# This repository contains lab assignments for the course **EIE4122** at The Hong Kong Polytechnic University.
+This repository contains lab assignments for the course **EIE4122** at The Hong Kong Polytechnic University.
 
 ## 🔬 Labs Overview
 
